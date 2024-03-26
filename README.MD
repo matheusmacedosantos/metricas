@@ -30,5 +30,5 @@ Grafana é uma plataforma para visualização e análise de dados, que permite c
 
 Este relatório discute a experiência com a implementação de métricas utilizando OpenTelemetry, Prometheus, Jaeger e Grafana. Os desafios encontrados reforçam a necessidade de uma configuração cuidadosa e compreensão das tecnologias para uma observabilidade efetiva de sistemas distribuídos.
 
-![print](./assets/print.png)
+![print](./assets/print2.png)
 
