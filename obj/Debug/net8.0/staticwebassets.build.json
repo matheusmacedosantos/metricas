@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uD8P+Xr5kEScyi16U+2jj84Rc17sL8cmLl+fqOzf0tY=",
+  "Source": "prometheus-ponderada",
+  "BasePath": "_content/prometheus-ponderada",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
